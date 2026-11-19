@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Rebuild"
+  short_description: "Reverse-engineer and rebuild complete websites"
+  default_prompt: "Use $web-rebuild to run a resumable full-site inventory, crawl, authentication analysis, API mapping, and reconstruction plan."
